@@ -14,3 +14,7 @@
 ```
     python server-side.py
 ```
+### Executar Cliente-Side
+```
+    python cliente-side.py
+```
